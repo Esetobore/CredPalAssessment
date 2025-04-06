@@ -1,5 +1,5 @@
 {
-    "name": "CredPal Assessment",
+    "name": "credpal",
     "short_name": "credpal",
     "start_url": ".",
     "display": "standalone",
