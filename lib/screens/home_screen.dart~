@@ -1,7 +1,7 @@
-import 'package:credpal/constants/paths.dart';
-import 'package:credpal/widgets/merchant_icon.dart';
-import 'package:credpal/widgets/product_card.dart';
-import 'package:credpal/widgets/search_component.dart';
+import 'package:credpalassessment/constants/paths.dart';
+import 'package:credpalassessment/widgets/merchant_icon.dart';
+import 'package:credpalassessment/widgets/product_card.dart';
+import 'package:credpalassessment/widgets/search_component.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
