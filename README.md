@@ -3,8 +3,10 @@
 This repository contains my implementation of the CredPal UI assessment for the Mobile Application Developer role. The project is a Flutter application that follows the Figma design provided in the assessment instructions.
 
 ## 📱 Screenshots
-
-
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/a7289036-13e0-41fe-a288-d3d1b02d20dd" width="45%" alt="Home Screen Top Section" />
+  <img src="https://github.com/user-attachments/assets/1dfc0f8c-8ddf-4cec-9b61-40a5b7c1d8a0" width="45%" alt="Featured Merchants Section" />
+</div>
 
 ## 🚀 Features
 
